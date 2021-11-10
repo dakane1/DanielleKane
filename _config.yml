@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Irvine"
-  employer         : "University of California, Irvine"
+  employer         : "UC Irvine"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bkNa9-cAAAAJ&view_op=list_works&gmla=AJsN-F6-lLK_xqKaXhsbp74NQRQLHHszcyGuyG0wTQdjhc78_oezdDCM3gORon1uSMJ2XGEtfBoErQm0hmLttua_xAMkRjdmfHXcaHJ9jzhHnauAnRBL3kU"
   email            :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dakane1"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-4086-0203"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
