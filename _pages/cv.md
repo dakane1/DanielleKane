@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A. in Library Science, University of Arizona, Tucson, AZ, 2004
+* B.S. in Geoscience, University of Arizona, Tucson, AZ, 1997
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* UNIVERSITY OF CALIFORNIA, IRVINE 3/2009 – current                                                                                                               Computational Research Librarian (June 2020 – current)
+Digital Scholarship Services Emerging Technologies Librarian (January 2019 – June 2020) 
+Research Librarian for Emerging Technologies and Service Innovation (March 2009 – December 2018)
+Interim Research Librarian for Education (April 2013 –Aug 2015)
+Head, Interactive Learning Center & Multimedia Resources Center (March 2009 – July 2011)
+Develops a program in library-based research reproducibility education and support services in collaboration with colleagues across the libraries and campus. Leads, develops, and promotes GIS and Spatial Analysis services and resources to meet curricular needs on campus. Assist researchers with computation, focusing on the use of R, Python, and GIS software. Certified Carpentry instructor, manages the libraries Software Carpentry workshops and the Digital Scholarship Services (DSS) departments programming workshops. As the past Interim Data Management and Curation Librarian, provided consultation services to students and faculty on data management and curation topics. Adapted and administered the data management and curation training for library staff. Campus admin for DMPTool and Dash/Dryad, attend service specific conference calls and the Data Curation Common Knowledge Group (DCCKG.) As the emerging technologies librarian, identified, promoted, and managed the service implementation of new library technology initiatives. Continually shared best practices through monthly informational sessions and written best practices relating to social media and emerging technologies. Trained staff to effectively utilize Web 2.0 technologies and social networking software to market library resources and services. Project manager and implementer for departmental, divisional, and organizational projects.
+
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019 LAUC Presentation Grant: Analyzing an Interactive Chatbot and its Impact on Academic Reference Services
+* 2017 ACRL Mid-Career Librarian Scholarship
+* 2017 LAUC Presentation Grant: Make it, Map it, Take it 
+* 2014 UCI Libraries Kudos Librarian Award
+* 2013 LAUC Presentation Grant: The Ins and Outs of Screen Sharing: Google+ Hangouts and Join.me
+* 2011 LAUC Presentation Grant: QR Codes: Mobilizing the Stacks
+
 
 Publications
 ======
