@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Danielle Kane - Librarian"
+title: "Danielle Kane - Computational Research Librarian"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
