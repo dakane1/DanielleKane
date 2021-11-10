@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UC Irvine Libraries / Computational Research Librarian"
+title                    : "UC Irvine Libraries"
 title_separator          : "-"
 name                     : &name "Danielle Kane"
 description              : &description "personal description"
