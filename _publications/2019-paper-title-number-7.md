@@ -2,7 +2,7 @@
 title: "Creating, Managing and Analyzing an Academic Library Chatbot"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-date: 2019
+date: 2019-12-01
 venue: 'BiD: textos universitaris de biblioteconomia i documentació, núm'
 citation: 'Kane, D. (2019). &quot;Paper Title Number 2.&quot; <i>BiD: textos universitaris de biblioteconomia i documentació, núm</i>. 43.'
 ---
