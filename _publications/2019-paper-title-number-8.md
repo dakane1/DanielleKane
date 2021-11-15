@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://cdn.ymaws.com/www.cilip.org.uk/resource/collection/F71F19C3-49CF-462D-8165-B07967EE07F0/C&I_197.pdf)
 
-Recommended citation: Wallbank, S., Kane, D., Dickerson, M., & Hutchinson, J. (2019). &quot;Exploring Bibliographic Records as Research Data.&quot; <i>Catalogue and Index</i>. 197, 3-9..
+Recommended citation: Wallbank, S., Kane, D., Dickerson, M., & Hutchinson, J. (2019). &quot;Exploring Bibliographic Records as Research Data.&quot; <i>Catalogue and Index</i>. 197, 3-9.
