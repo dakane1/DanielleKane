@@ -7,5 +7,4 @@ venue: 'Internet Librarian ’09'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Jacobson, J., Kane, D., Runquist, K., Hamilton, J., and Clark, S. (2009). &quot;Paper Title Number 2.&quot; <i>Internet Librarian ’09</i>. Medford, N.J.: Information Today.'
 ---
-
-Recommended citation: Your Name, You. (2010). "Fictioneurs, Versifiers, Thinkers & Tinkerers: Managing virtual collections across platforms in the Web 2.0 era." <i>Internet Librarian ’09</i>. Medford, N.J.: Information Today.
+Recommended citation: Jacobson, J.J., Kane, D. A., Runquist K., Hamilton, J., and Clark, S (2009). "Fictioneurs, Versifiers, Thinkers & Tinkerers: Managing virtual collections across platforms in the Web 2.0 era." <i>Internet Librarian ’09</i>. Medford, N.J.: Information Today.
