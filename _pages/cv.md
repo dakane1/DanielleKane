@@ -60,8 +60,8 @@ Awards
 
 Certificates
 ======
-* 2017 Certificate of Achievement - Software Carpentry Certification
 * 2019 Certificate of Completion - FAIR Data Stewardship Supporting FAIR Data Interoperability
+* 2017 Certificate of Achievement - Software Carpentry Certification
 
 Publications
 ======
